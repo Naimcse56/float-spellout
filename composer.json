@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.0",
         "illuminate/support": "*",
-        "naimcse56/float-spellout": "dev-main"
+        "naimcse56/float-spellout": "main"
     },
     "extra": {
         "laravel": {
