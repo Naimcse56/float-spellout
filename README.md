@@ -30,5 +30,7 @@ use Vendor\FloatSpellout\Services\FloatNumberSpelloutService;
 
 $service = new FloatNumberSpelloutService();
 $result = $service->convert(123.45);
+
+<!-- Output will be 'one hundred twenty-three point forty-five' -->
 </pre>
 
