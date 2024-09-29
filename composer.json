@@ -1,0 +1,22 @@
+{
+    "name": "naimcse56/float-spellout",
+    "description": "This is a Laravel Package to convert float number to words",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Naimcse56\\FloatSpellout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naimul Islam",
+            "email": "naimcse56@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "naimcse56/float-spellout": "dev-main"
+    }
+}
