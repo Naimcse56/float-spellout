@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Naimcse56\\FloatSpellout\\FloatSpelloutServiceProvider"
+                "Naimcse56\\FloatSpellout\\FloatSpellout"
             ]
         }
     }
