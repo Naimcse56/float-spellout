@@ -26,7 +26,7 @@ class NumberController extends Controller
 </pre>
 Or You can also do this below
 <pre>
-use Vendor\FloatSpellout\Services\FloatNumberSpelloutService;
+use Naimcse56\FloatSpellout\Services\FloatNumberSpelloutService;
 
 $service = new FloatNumberSpelloutService();
 $result = $service->convert(123.45);
