@@ -1,6 +1,12 @@
 {
     "name": "naimcse56/float-spellout",
     "description": "This is a Laravel Package to convert float number to words",
+    "keywords": [
+        "naimcse56",
+        "float-spellout",
+        "number-to-words-laravel"
+    ],
+    "homepage": "https://github.com/Naimcse56/float-spellout",
     "type": "library",
     "license": "MIT",
     "autoload": {
