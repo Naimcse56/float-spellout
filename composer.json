@@ -18,12 +18,5 @@
     "require": {
         "php": "^8.0",
         "illuminate/support": "*"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Naimcse56\\FloatSpellout\\FloatSpellout"
-            ]
-        }
     }
 }
