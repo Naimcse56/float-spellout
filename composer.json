@@ -17,8 +17,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^8.0",
-        "illuminate/support": "*",
-        "naimcse56/float-spellout": "main"
+        "illuminate/support": "*"
     },
     "extra": {
         "laravel": {
