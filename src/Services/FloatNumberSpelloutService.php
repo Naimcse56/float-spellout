@@ -23,7 +23,7 @@ class FloatNumberSpelloutService implements NumberSpelloutContract
         // Convert fractional part to individual digit words
         $fractionalSpelling = $this->spellFractionDigits($fractionalPart);
 
-        return $integerSpelling . ' point ' . $fractionalSpelling;
+        return $integerSpelling . ' point ' . $fractionalSpelling . ' ONLY';
     }
 
     private function spellInteger(int $number): string
