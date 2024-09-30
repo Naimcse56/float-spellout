@@ -1,7 +1,7 @@
 
 # float-spellout
 Package for Laravel Developers to Convert Number to Words.
-<pre>composer require naimcse56/float-spellout</pre>
+<pre>composer require naimcse56/float-spellout:dev-main</pre>
 Add This in config/app.php
 <pre>Naimcse56\FloatSpellout\FloatSpelloutServiceProvider::class</pre>
 You can inject the service into your controller and use it to convert float numbers:
